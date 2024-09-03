@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently working on a new README file as part of GitHub learning.
+
 <!--
 **eratyptin/eratyptin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
